@@ -2,7 +2,7 @@
   "name": "civic-issues-admin-portal",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://dheeraj-1808.github.io/sih-project",
+  "homepage": ".",
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.2.0",
     "@testing-library/jest-dom": "^5.16.4",
